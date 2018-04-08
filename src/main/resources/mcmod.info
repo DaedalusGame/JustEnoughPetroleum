@@ -1,0 +1,16 @@
+[
+{
+  "modid": "justenoughpetroleum",
+  "name": "Just Enough Petroleum",
+  "description": "-and petroleum accessories",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BordListian"],
+  "credits": "Forge, mezz, Flaxbeard, the Immersive Engineering team",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
